@@ -10,5 +10,5 @@ I have implemeneted the following features
 - Extensions
 - Custom Modifiers
 
-![Alt Text]()
+![Alt Text](https://github.com/myawesomehub/TaskManager/blob/main/TaskMangaerGIF.gif)
 
